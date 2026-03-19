@@ -1,0 +1,36 @@
+# Core data science
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Network analysis
+networkx>=3.0
+python-igraph>=0.11
+leidenalg>=0.10
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+SciencePlots>=2.1
+adjustText>=0.8
+Pillow>=9.0
+
+# Machine learning
+scikit-learn>=1.2
+
+# NLP
+nltk>=3.8
+
+# Statistics
+powerlaw>=1.5
+
+# Geo/country utilities
+pycountry>=22.3
+
+# OpenAI API (for abstract embeddings in notebook 01)
+openai>=1.0
+
+# GPU-accelerated libraries (optional; required for notebooks 02, 03)
+# Install via conda/rapids: https://docs.rapids.ai/install
+# cuml>=24.04
+# cugraph>=24.04
